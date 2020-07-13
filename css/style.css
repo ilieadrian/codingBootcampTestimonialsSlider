@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body {
+  font-family: 'Inter', sans-serif;
+  font-size: 32px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  max-width: 95%;
+  height: 100vh;
+  background-color: #f3f3f3; }
+
+.container {
+  max-width: 1440px;
+  overflow: hidden;
+  background-color: #fff;
+  position: relative; }
+
+.slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 115px 165px 150px 165px; }
+  .slide .text-container {
+    display: flex;
+    flex-direction: column; }
+    .slide .text-container .testimonial {
+      max-width: 630px;
+      font-weight: 300;
+      color: #202046;
+      line-height: 1.6;
+      margin-bottom: 50px; }
+    .slide .text-container .author {
+      font-size: 20px;
+      display: flex; }
+      .slide .text-container .author .author-name {
+        color: #202046;
+        font-weight: 700;
+        margin-right: 16px; }
+      .slide .text-container .author .author-job {
+        font-weight: 500;
+        color: #babacf; }
+  .slide img {
+    width: 540px;
+    height: 540px;
+    border-radius: 5px;
+    object-fit: cover; }
+
+.buttons {
+  position: absolute;
+  bottom: 20%;
+  right: 40%;
+  margin: 0;
+  width: 112px;
+  height: 60px;
+  display: flex; }
+  .buttons button {
+    background-color: #fff;
+    outline: none;
+    border: none;
+    padding: 15px;
+    width: 100%;
+    height: 100%; }
+
+#slide-1 {
+  display: none; }
+
+.attribution {
+  font-size: 11px;
+  text-align: center; }
+  .attribution a {
+    color: #3e52a3; }

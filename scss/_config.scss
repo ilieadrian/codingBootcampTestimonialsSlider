@@ -1,0 +1,12 @@
+$desktop-width: 1440px;
+$mobile-width: 375px;
+$primary-color: hsl(240, 38%, 20%); //Dark Blue
+$secondary-color: hsl(240, 18%, 77%); //Grayish Blue
+
+@mixin easeOut {
+    transition: all 0.5s ease-out;
+}
+
+@mixin ease {
+    transition: all 0.2s ease-in;
+}
