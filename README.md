@@ -1,6 +1,8 @@
 <h1>Coding Bootcamp Testimonials Slider</h1>
 
-This project is a responsive testimonials slider for a coding bootcamp, created with HTML, CSS, and JavaScript. This project is part of a [Frontend Mentor](https://www.frontendmentor.io/) challenge and showcases techniques for building an interactive carousel that allows users to navigate through testimonials. [Live version](https://articlepreviewia.netlify.app/)
+[Live version](https://articlepreviewia.netlify.app/)
+
+This project is a responsive testimonials slider for a coding bootcamp, created with HTML, CSS, and JavaScript. This project is part of a [Frontend Mentor](https://www.frontendmentor.io/) challenge and showcases techniques for building an interactive carousel that allows users to navigate through testimonials. 
 
 <h3>Features</h3>
 
