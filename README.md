@@ -17,7 +17,7 @@ This project is a responsive testimonials slider for a coding bootcamp, created 
 
 <h3>Installation</h3>
 
-To run the project locally :
+To run the project locally:
 
   1. Clone the repository:
 
